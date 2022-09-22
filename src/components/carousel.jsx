@@ -20,7 +20,9 @@ function TopCarousel() {
         <Carousel.Item>
           <ImageCard
             title={"Our special night!"}
-            message={"Every night is perfect by your side."}
+            message={
+              "Y de pronto llega alguien y le da por cambiar tu vida, por hacerla un poco menos complicada."
+            }
             image={pic2}
           />
         </Carousel.Item>

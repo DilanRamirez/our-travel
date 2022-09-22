@@ -15,7 +15,7 @@ export default function ImageCard({ title, message, image }) {
           height="140"
           image={image}
           alt="green iguana"
-          style={{ height: 220 }}
+          style={{ height: 280 }}
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
